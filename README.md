@@ -3,7 +3,7 @@
 # Sobre mim
 
 - Estudante do 1º semestre de Ciência da Computação.
-- Estudante Alura formação front-end.
+- Estudante Full Stack.
 - Formado em Administração de Empresas.
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-neris/)
