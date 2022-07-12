@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-- Estudante do 1º semestre de Ciência da Computação.
+- Estudante do 1º semestre de Sistemas de Informação.
 - Estudante do  Bootcamp Explorer da Rocketseat.
 - Formado em Administração de Empresas.
 
