@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante engajado e com disposição em aprender e gerar r
 
 <div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-neriss&layout=compact)
+![gabriel-neriss GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-neriss&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-neriss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
