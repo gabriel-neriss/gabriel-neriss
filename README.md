@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Neris 👋 
 
-Sou um desenvolvedor iniciante engajado e com disposição em aprender e gerar resultados através do meu código. Acredito que a tecnologia é um meio importante para que problemas sejam solucionados. Hoje estudo diariamente para alcançar meus objetivos de ser dev. No meu tempo livre curto estar em família, natureza, séries e filmes!
+Sou um desenvolvedor iniciante engajado e com disposição em aprender e gerar resultados através do meu código. Acredito que a tecnologia é um meio importante para que problemas sejam solucionados. Hoje estudo diariamente para alcançar meu objetivo de ser dev. No meu tempo livre curto estar em família, natureza, séries e filmes!
 
 # Sobre mim
 
