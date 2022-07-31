@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-- Estudante do 1º semestre de Sistemas de Informação na faculdade impacta de tecnologia considerada uma das melhores instituições de tecnologia da América Latina.
+- Estudante do 1º semestre de Sistemas de Informação na Faculdade Impacta de Tecnologia considerada uma das melhores instituições de tecnologia da América Latina.
 - Estudante do  Bootcamp Explorer da Rocketseat.
 - Formado em Administração de Empresas.
 
