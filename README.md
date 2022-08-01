@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Gabriel Neris 👋 
 
+##  💻 Desenvolvedor Full Stack
+
 Sou um desenvolvedor iniciante engajado  com disposição em aprender e gerar resultados através do meu código. Acredito que a tecnologia é um meio importante para que  problemas sejam solucionados. Hoje estudo diariamente para alcançar meu objetivo de ser dev. 
 
-# Sobre mim
+
 
  🧑‍💻 Estudante do 1º semestre de Sistemas de Informação na  <a href="https://www.impacta.edu.br/sobre">Impacta</a>  considerada uma das melhores instituições de tecnologia da América Latina.<br/>
 🚀 Estudante do bootcamp Explorer da @Rocketseat.<br/>
