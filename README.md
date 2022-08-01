@@ -18,9 +18,8 @@ Sou Estudante do 1º semestre de Sistemas de Informação na  <a href="https://w
 
 <div>
 
-![gabriel-neriss GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-neriss&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-neriss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=gabriel-neriss&layout=compact"/>
+<img align=”right” height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-neriss&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
 </div>
 
