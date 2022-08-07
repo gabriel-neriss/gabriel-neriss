@@ -9,7 +9,7 @@ Sou Estudante do 1º semestre de Sistemas de Informação na  <a href="https://w
 <br/>
 
 🚀 Estudante do bootcamp Explorer na <a href="https://www.rocketseat.com.br/explorer">Rocketseat</a> <br/>
-🏫 Cursando o curso CS50's Introduction to Computer Science na <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0">Havard</a> <br/>
+🏫 Cursando o curso CS50's Introduction to Computer Science em <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0">Havard</a> <br/>
 🧠 Criando bases com lógica de programação, JavaScript, HTML e CSS <br/>
 🎓 Formado em Administração de Empresas.<br/>
 💆‍ No meu tempo livre curto estar em família, natureza, séries e filmes!
