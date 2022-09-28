@@ -8,7 +8,6 @@ Estudante do 1º semestre de Sistemas de Informação na  <a href="https://www.i
 
 <br/>
 
-👨‍🚀 Estudante do bootcamp Explorer na <a href="https://www.rocketseat.com.br/explorer">Rocketseat</a> <br/>
 💻 Fazendo a formação de desenvolvedor jr. do programa ONE Next Edition criado da parceria entre a  <a href="https://www.oracle.com/br/education/oracle-next-education/">Alura e Oracle</a> <br/>
 🧠 Criando bases com lógica de programação, JavaScript, HTML e CSS <br/>
 🎓 Formado em Administração de Empresas.<br/>
