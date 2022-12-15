@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Neris 👋 
 
-##  👨‍💻 Desenvolvedor Full Stack
+##  👨‍💻 Desenvolvedor Front-end
 
 Sou um desenvolvedor iniciante com muita disposição em aprender e gerar resultados através do meu código. Acredito que a tecnologia é um meio importante para que  problemas sejam solucionados. Hoje estudo diariamente para alcançar meu objetivo de ser dev. 
 <br/><br/>
