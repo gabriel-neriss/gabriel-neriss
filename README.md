@@ -1,12 +1,8 @@
 ### Olá! Eu sou o Gabriel Neris 👋 
 
-##  👨‍💻 Desenvolvedor Front-end
+##  👨‍💻 Desenvolvedor Full Stack
 
 Sou um desenvolvedor iniciante com muita disposição em aprender e gerar resultados através do meu código. Acredito que a tecnologia é um meio importante para que  problemas sejam solucionados. Hoje estudo diariamente para alcançar meu objetivo de ser dev. 
-<br/><br/>
-Estudante do 2º semestre de Sistemas de Informação na  <a href="https://www.impacta.edu.br/sobre">Impacta</a>  considerada uma das melhores instituições de tecnologia da América Latina.<br/>
-
-<br/>
 
 🧠 Criando bases com lógica de programação, JavaScript, HTML e CSS <br/>
 🎓 Formado em Administração de Empresas.<br/>
